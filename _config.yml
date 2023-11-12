@@ -9,11 +9,7 @@ version: 2
 name: 한규빈
 title: 자바 백엔드 개발자
 email: rbsks147@gmail.com
-# email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
 website: https://rbsks.tistory.com/
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
