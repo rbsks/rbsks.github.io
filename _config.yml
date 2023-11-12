@@ -64,6 +64,8 @@ content:
         # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 한패스
+        sub_title: 기업 송금 개발팀 / 사원
+        caption: 2022.12 ~ 현재 재직중
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
