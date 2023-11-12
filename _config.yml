@@ -64,40 +64,11 @@ content:
         title: 한패스
         sub_title: 기업 송금 개발팀 / 사원
         caption: 2022.12 ~ 현재 재직중
+        link: https://www.hanpass.com/
         quote: >
           전세계 200여 개국으로 간편하게 송금이 가능한 해외송금 서비스
         description: | # this will include new lines to allow paragraphs
           JAVA 11에서 TLS 1.3 인증 실패 이슈로 인한 빌드 버전 업데이트
-          
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
