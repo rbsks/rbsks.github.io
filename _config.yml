@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username: rbsks147
+github_username: rbsks
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -30,10 +30,10 @@ github_username: rbsks147
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,14 +48,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+    Java, Spring 기반의 3년 차 자바 백엔드 개발자로 현재는 전세계 200여 개국으로 간편하게 송금이 가능한 해외송금 서비스를 제공하는 회사에서 기업 송금 및 정산을 주요 업무로 하고 있습니다.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
+    
+    - 새로운 기술 습득하기 위해 꾸준히 개발 서적 읽기와 공부한 내용을 블로그에 작성합니다.
+    - 사이드 이펙트를 미리 대비하여 꼼꼼히 설계하기를 노력하고 테스트 코드를 열심히 작성합니다.
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
+    - 더 좋은 방향으로 문제를 해결하기 위해 코드를 검토하고 리팩토링을 실천합니다.
+    
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
