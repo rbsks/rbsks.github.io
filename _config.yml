@@ -115,10 +115,10 @@ content:
           
       - title: 로켓단의 한국 정복
         caption: 2022.10 ~ 2022.11
-        link: https://github.com/TeamRocketDan
           
         description: | # this will include new lines to allow paragraphs
-          [로켓단의 한국 정복 포트폴리오](https://fringe-actress-f29.notion.site/Rocketdan-Portfolio-0718b0cd27104add8eed1be8e46da887?pvs=4)
+          [로켓단의 한국 정복 깃허브](https://github.com/TeamRocketDan)    
+          [로켓단의 한국 정복 포트폴리오](https://fringe-actress-f29.notion.site/Rocketdan-Portfolio-0718b0cd27104add8eed1be8e46da887?pvs=4)  
           가고 싶은 여행의 일정과 지역을 포함한 채팅방을 개설해 동행을 모을 수 있는 서비스입니다.  
           인기 있는 피드와 지역 위치(시도, 구)로 피드들을 볼 수 있어 대략적인 지역의 볼 거리들을 알아볼 수 있고 본인의 피드를 정리하는 페이지를 통해 여행에서 느꼈던 행복한 추억을 공유하고 저장할 수 있습니다.     
 
@@ -134,10 +134,10 @@ content:
           
       - title: WorkDuo
         caption: 2022.08 ~ 2022.10
-        link: https://github.com/WorkDuo/WorkDuo_dev
           
         description: | # this will include new lines to allow paragraphs
-          [WorkDuo 포트폴리오](https://alive-tern-b83.notion.site/WorkDuo-Portfolio-bddf628d3f394cc2b17b35b2587bee76?pvs=4)
+          [WorkDuo 깃허브](https://github.com/WorkDuo/WorkDuo_dev)    
+          [WorkDuo 포트폴리오](https://alive-tern-b83.notion.site/WorkDuo-Portfolio-bddf628d3f394cc2b17b35b2587bee76?pvs=4)  
           구성원들과 운동 모임을 개설하여 같이 운동을 할 수 있도록 도와주는 서비스입니다.  
           유저는 개인 피드에 운동 일지를 기록할 수 있고 그룹에 가입하여 그룹 피드를 통해 구성원들과 소통할 수 있습니다. 
 
