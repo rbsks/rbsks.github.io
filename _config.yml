@@ -57,16 +57,24 @@ about_content: | # this will include new lines to allow paragraphs
     - 더 좋은 방향으로 문제를 해결하기 위해 코드를 검토하고 리팩토링을 실천합니다.
     
 content:
-  - title: Experience # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 한패스
-        sub_title: 기업 송금 개발팀 / 사원
-        caption: 2022.12 ~ 현재 재직중
-        link: https://www.hanpass.com/
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          전세계 200여 개국으로 간편하게 송금이 가능한 해외송금 서비스
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
