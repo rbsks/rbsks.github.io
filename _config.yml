@@ -94,7 +94,6 @@ content:
           - 골프 레슨 리뷰 개발 2021.07 ~ 2021.08
             - 유저가 받은 골프 레슨에 대한 후기와 평점을 작성할 수 있는 기능 개발.
 
-content:
   - title: Project
     layout: list
     content:
