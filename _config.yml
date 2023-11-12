@@ -155,7 +155,21 @@ content:
           담당 기능
           - 모임의 정원이 초과하지 않도록 Redisson 분산락 적용
           - 유저 일정을 확인하여 중복 모임 참여/생성 제한   
-        
+          
+  - title: Skill
+    layout: list
+    content:
+      - layout: left
+        title: Back-End
+          
+        description: | # this will include new lines to allow paragraphs
+          Java (~11), Spring Boot, Spring Data JPA, Spring REST Doc, QueryDSL JPA, Junit5, Mockito, Thymeleaf, JSP
+          
+      - title: DevOps
+          
+        description: | # this will include new lines to allow paragraphs
+          MySQL, MariaDB  
+          
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
