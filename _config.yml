@@ -104,8 +104,11 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           20세기 유럽의 빈티지 조명과 소품을 판매하는 브랜드 arffy의 온라인 스토어입니다.    
+
+            
           팀 구성: Back-End 2명, Front-End 1명  
           사용 기술: Spring Boot, Spring Data JPA, AWS, Docker, Nginx, MySQL    
+            
           담당 기능
           - 쇼핑몰 관리자 서버 개발
           - 이메일 발송 및 슬랙 메시지 전송 서버 개발
