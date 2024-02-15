@@ -109,8 +109,8 @@ content:
   - title: Project
     layout: list
     content:
-      - layout: left
-        title: StyleLab
+     # - layout: left
+      - title: StyleLab
         caption: 2023.12 ~ 현재
           
         description: | # this will include new lines to allow paragraphs
