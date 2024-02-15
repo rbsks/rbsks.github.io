@@ -109,12 +109,11 @@ content:
   - title: Project
     layout: list
     content:
-      #- layout: left
-      - title: StyleLab
+      - layout: left
+        title: StyleLab
         caption: 2023.12 ~ 현재
           
-        description: | # this will include new lines to allow paragraphs
-          [StyleLab 깃허브](https://github.com/rbsks/StyleLab)    
+        description: | # this will include new lines to allow paragraphs 
           스타일을 연구하다의 의미를 가지는 패션 이커머스 플랫폼 서비스입니다.   
 
 
