@@ -127,7 +127,7 @@ content:
           - EhCache를 활용하여 상품 카테고리 목록 조회 성능 개선 100 ~ 200ms -> 50ms 이하
           - GitHub Actions를 활용하여 CI/CD 구축
           
-        title: arffy
+      - title: arffy
         caption: 2023.05 ~ 2023.08
         link: https://arffy.store/
           
