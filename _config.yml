@@ -119,8 +119,8 @@ content:
 
 
               
-          <mark>Spring Boot</mark> <mark>Spring Data JPA</mark> <mark>Naver Cloud</mark> <mark>GitHub Actions</mark> <mark>MySQL</mark> <mark>JdbcClient</mark>  
-          팀 구성: Back-End 1명  
+          <mark>Spring Boot</mark> <mark>Spring Data JPA</mark> <mark>AWS</mark> <mark>Docker</mark> <mark>Nginx</mark> <mark>MySQL</mark>  
+          팀 구성: Back-End 2명, Front-End 1명  
             
           담당 기능
           - 상품 카테고리를 기준으로 상품 테이블을 파티셔닝하여 상품 목록 조회 성능 개선 1s -> 0.05s 이하
@@ -129,7 +129,7 @@ content:
           
       - title: arffy
         caption: 2023.05 ~ 2023.08
-        #link: https://arffy.store/
+        link: https://arffy.store/
           
         description: | # this will include new lines to allow paragraphs
           20세기 유럽의 빈티지 조명과 소품을 판매하는 브랜드 arffy의 온라인 스토어입니다.    
