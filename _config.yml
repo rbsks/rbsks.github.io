@@ -63,7 +63,7 @@ content:
     content:
       - layout: left
         title: 한패스
-        sub_title: 기업 송금 개발팀 / 사원
+        sub_title: PG 개발팀 / 사원
         caption: 2022.12 ~ 현재 재직중
         link: https://www.hanpass.com/
         description: | # this will include new lines to allow paragraphs
@@ -186,12 +186,12 @@ content:
         title: Back-End
           
         description: | # this will include new lines to allow paragraphs
-          Java (~11), Spring Boot, Spring Data JPA, Spring REST Doc, QueryDSL JPA, Junit5, Mockito, Thymeleaf, JSP
+          Java (~17), Spring Boot, Spring Data JPA, Spring REST Doc, QueryDSL JPA, Junit5, Mockito, Thymeleaf, JSP
           
       - title: DevOps
           
         description: | # this will include new lines to allow paragraphs
-          MySQL, MariaDB  
+          MySQL, MariaDB, GitHub Actions  
           
 # Footer
 footer_show_references: true
