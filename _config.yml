@@ -71,7 +71,7 @@ content:
 
               
           <mark>Spring Boot</mark> <mark>Spring Data JPA</mark> <mark>Thymeleaf</mark> <mark>RabbitMQ</mark> <mark>Jenkins</mark> <mark>Nginx</mark> <mark>MariaDB</mark> <mark>MSSQL</mark>   
-           - __기업 송금 파트너 사전용 환전 API 개발 2024.03 ~ 2024.03__  
+          - __기업 송금 파트너 사전용 환전 API 개발 2024.03 ~ 2024.03__  
             - 기업 송금 파트너 사 전용 환전 API 개발
           - __기업 송금 파트너 사의 잔액 불일치 이슈 해결 2024.02 ~ 2024.02__  
             - true로 설정된 JPA OSIV 옵션으로 인해 영속성 컨텍스트가 컨트롤러 및 뷰 영역까지 확장되어 트랜잭션이 분리되어도 영속성 컨텍스트에 존재하는 엔티티에 대해서 쿼리가 실행되지 않고 영속성 컨텍스트에 있는 엔티티를 조회하여 잔액 불일치가 발생하는 이슈 확인. OSIV를 false로 변경하여 문제 해결.
